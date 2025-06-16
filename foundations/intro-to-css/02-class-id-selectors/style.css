@@ -1,0 +1,20 @@
+
+.all-odds {
+    font-family: Verdana, "DejaVu Sans",sans-serif ;
+    background-color: rgb(285, 200, 203);
+}
+
+.three {
+    font-size: 24px;
+}
+
+#blue {
+    color: rgb(63, 000, 250);
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: rgb(50, 205, 50);
+    font-size: 24px;
+    font-weight: 700;
+}
